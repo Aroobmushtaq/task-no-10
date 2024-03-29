@@ -1,0 +1,114 @@
+*{
+   margin: 0px;
+    padding: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    background-color:white;
+    margin-top: 10px;
+    
+    
+}
+.box h1{
+    margin-left: 30px;
+}
+.box a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+}
+a:hover{
+    background-color:palevioletred;
+    max-height: 20px;
+}
+
+.box button{
+    margin-top: 10px;
+padding-left: 8px;
+padding-right: 8px;
+margin-right: 30px;
+border-radius: 8px;
+box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+}
+#id .row{
+    padding-top: 170px;
+}
+.col-6{
+    text-align:justify;
+}
+.col-6 img{
+    margin-left: 120px;
+}
+.col-6 button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 15px;
+    border-radius: 10px;
+    box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+}
+.col-3{
+    border: 2px black solid;
+    margin: 15px;
+    border-radius: 10px;
+    text-align:center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left:10px ;
+    padding-right: 10px;
+    box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.75);
+}
+#containerno h1{
+    padding-top: 200px;
+    text-align: center;
+    margin-left: 100px;
+}
+.hadia{
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+}
+#about{
+    text-align: center;
+    background-color: rgb(209, 209, 178);
+    margin: 30px;
+    padding-bottom: 100px;
+}
+#about p{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#last p {
+    margin-left: 350px;
+    margin-right: 250px;
+}
+#last{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.hadi{
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+}
+.contact{
+    margin-top: 70px;
+}
+.ali{
+    text-align: center;
+    margin-top: 100px;
+}
+.abu{
+    margin-left: 300px;
+    margin-top: 80px;
+}
